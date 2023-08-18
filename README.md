@@ -17,7 +17,7 @@
 <div>
   
   <img height="165" align="left" src="https://github-readme-stats-git-master-xspemin-gmailcom.vercel.app/api?username=cananoo&show_icons=true&theme=tokyonight&show_icons=true"/>
-  <img height="165" src="https://github-readme-stats-git-master-xspemin-gmailcom.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby&theme=tokyonight&langs_count=6&layout=compact" />
+  <img height="165" src="https://github-readme-stats-git-master-xspemin-gmailcom.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
 
 <picture>
