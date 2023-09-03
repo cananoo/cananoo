@@ -16,8 +16,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 <div>
   
-  <img height="165" align="left" src="github-readme-stats-sepia-ten-78.vercel.app/api?username=cananoo&show_icons=true&theme=tokyonight&show_icons=true"/>
-  <img height="165" src="https://github-readme-stats-sepia-ten-78.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact" />
+  <img height="165" align="left" src="github-readme-stats-blue-nine-91.vercel.app/api?username=cananoo&show_icons=true&theme=tokyonight&show_icons=true"/>
+  <img height="165" src="https://github-readme-stats-blue-nine-91.vercel.app/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
 
 <picture>
