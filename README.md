@@ -1,27 +1,87 @@
+<div align="center">
+  <a href="https://github.com/cananoo">
+    <img src="https://github.com/cananoo.png?size=160" width="120" alt="Min Peng" />
+  </a>
 
-<p><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>   Cananoo <a href=""></a><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
-</em></p>
+  <h1>Hi, I'm Min Peng 👋</h1>
+  <p><strong>cananoo</strong> · building small, useful things on the web</p>
 
-<!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://steamcommunity.com/id/Ccoer/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome!&center=true&size=27" alt="Typing SVG" />
+  <p>
+    <a href="https://github.com/cananoo?tab=repositories">
+      <img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white" alt="Projects" />
     </a>
-  </div> 
-
-## 🌠[ My Coding]()
-> the projects I'm  exploring ...
-
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=cananoo&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
-<div>
-  
-  <img height="165" align="left" src="https://github-readme-stats-blue-nine-91.vercel.app/api?username=cananoo&show_icons=true&theme=tokyonight&show_icons=true"/>
-  <img height="165" src="https://github-readme-stats-blue-nine-91.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact" />
+    <a href="https://steamcommunity.com/id/Ccoer/">
+      <img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
+    </a>
+  </p>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cananoo/cananoo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cananoo/cananoo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cananoo/cananoo/output/github-contribution-grid-snake.svg">
-</picture>
+> If space is hard, landing is harder.
+
+---
+
+## 🌌 What I'm exploring
+
+- 🧩 **DApps & smart contracts** — learning by building
+- ⚙️ **Go web services** — keeping tools simple and useful
+- 🛠️ **JavaScript side projects** — iterating in public
+
+## ✨ Featured work
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/cananoo/nft-market-starter"><strong>nft-market-starter</strong></a><br />
+      A DApp experiment around an NFT marketplace.<br /><br />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/cananoo/gin_List"><strong>gin_List</strong></a><br />
+      A simple list web app built with Go.<br /><br />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/cananoo/myblog"><strong>myblog</strong></a><br />
+      An ongoing personal web project under development.<br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/cananoo/github-readme-stats"><strong>github-readme-stats</strong></a><br />
+      Dynamic stats for GitHub READMEs.<br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
+
+## 🧰 Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+## 📊 GitHub at a glance
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-blue-nine-91.vercel.app/api?username=cananoo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-blue-nine-91.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=10" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cananoo/cananoo/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+<details>
+  <summary>More about this profile</summary>
+  <br />
+  I like exploring ideas through small experiments, then polishing the ones that stick.
+</details>
+
+<div align="center">
+  <sub>Thanks for stopping by · keep building ✨</sub>
+</div>
