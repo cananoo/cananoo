@@ -24,7 +24,7 @@
     <a href="https://github.com/cananoo?tab=repositories">
       <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-0f766e?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="AI and ML focus" />
     </a>
-    <a href="https://github.com/cananoo?tab=pull-requests">
+    <a href="https://github.com/search?q=author%3Acananoo&amp;type=pullrequests">
       <img src="https://img.shields.io/badge/OSS-PRs%20IN%20FLIGHT-7c3aed?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Open source pull requests in flight" />
     </a>
     <a href="https://github.com/collective/icalendar/pull/1728">
