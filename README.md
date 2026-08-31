@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://github.com/cananoo">
-    <img src="https://github.com/cananoo.png?size=160" width="120" alt="Min Peng" />
-  </a>
-
 
   <h1>Hi, I'm Min Peng 👋</h1>
   <p><strong>cananoo</strong> · exploring AI, developer tools, and the web</p>
