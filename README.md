@@ -45,21 +45,11 @@
 
 ## 🔧 Selected upstream work
 
-Every repository below is an upstream open-source project where I have opened a pull request.
-
-### ✅ Merged upstream contributions
+Only upstream open-source repositories where my pull requests have been merged.
 
 - **[AgenticLedger](https://github.com/ShekharBhardwaj/AgenticLedger)** · [#119](https://github.com/ShekharBhardwaj/AgenticLedger/pull/119) / [#120](https://github.com/ShekharBhardwaj/AgenticLedger/pull/120) — framework redetection breakdowns and Gemini CLI user-agent detection.
 - **[joblib](https://github.com/joblib/joblib)** · [#1842](https://github.com/joblib/joblib/pull/1842) — relaxed the RISC-V hashing benchmark threshold.
 - **[icalendar](https://github.com/collective/icalendar)** · [#1728](https://github.com/collective/icalendar/pull/1728) — documented loading Calendar.example() for users.
-
-### 🚧 Active upstream contributions
-
-- **[LocalAI](https://github.com/mudler/LocalAI)** · [#11819](https://github.com/mudler/LocalAI/pull/11819) — sends collection update intervals as JSON numbers; DCO is passing and maintainer review is pending.
-- **[KubeRay](https://github.com/ray-project/kuberay)** · [#5220](https://github.com/ray-project/kuberay/pull/5220), [#5221](https://github.com/ray-project/kuberay/pull/5221), [#5223](https://github.com/ray-project/kuberay/pull/5223) — Go/Kubernetes fixes plus Autoscaler RBAC documentation.
-- **[LlamaIndex](https://github.com/run-llama/llama_index)** · [#22860](https://github.com/run-llama/llama_index/pull/22860), [#22861](https://github.com/run-llama/llama_index/pull/22861), [#22891](https://github.com/run-llama/llama_index/pull/22891) — ingestion durability, reranker validation, and integration documentation.
-- **[torchtune](https://github.com/meta-pytorch/torchtune)** · [#2988](https://github.com/meta-pytorch/torchtune/pull/2988) — clarified DistributedCheckpointer recipe configuration.
-- **[TRL](https://github.com/huggingface/trl)** · [#6982](https://github.com/huggingface/trl/pull/6982) — validates dataset-mixture fractions.
 
 ## 📊 GitHub at a glance
 
