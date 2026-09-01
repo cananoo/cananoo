@@ -45,8 +45,6 @@
 
 ## 🔧 Selected upstream work
 
-Only upstream open-source repositories where my pull requests have been merged.
-
 - **[AgenticLedger](https://github.com/ShekharBhardwaj/AgenticLedger)** · [#119](https://github.com/ShekharBhardwaj/AgenticLedger/pull/119) / [#120](https://github.com/ShekharBhardwaj/AgenticLedger/pull/120) — framework redetection breakdowns and Gemini CLI user-agent detection.
 - **[joblib](https://github.com/joblib/joblib)** · [#1842](https://github.com/joblib/joblib/pull/1842) — relaxed the RISC-V hashing benchmark threshold.
 - **[icalendar](https://github.com/collective/icalendar)** · [#1728](https://github.com/collective/icalendar/pull/1728) — documented loading Calendar.example() for users.
