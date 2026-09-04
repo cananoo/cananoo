@@ -46,6 +46,7 @@
 ## 🔧 Selected upstream work
 
 - **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** · [#2352](https://github.com/zylon-ai/private-gpt/pull/2352) — added Windows-compatible model download locking.
+- **[jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm)** · [#4303](https://github.com/openJiuwen-ai/jiuwenswarm/pull/4303) — fixed paths in bundled skill instructions and added regression coverage.
 - **[AgenticLedger](https://github.com/ShekharBhardwaj/AgenticLedger)** · [#119](https://github.com/ShekharBhardwaj/AgenticLedger/pull/119) / [#120](https://github.com/ShekharBhardwaj/AgenticLedger/pull/120) — framework redetection breakdowns and Gemini CLI user-agent detection.
 - **[joblib](https://github.com/joblib/joblib)** · [#1842](https://github.com/joblib/joblib/pull/1842) — relaxed the RISC-V hashing benchmark threshold.
 - **[icalendar](https://github.com/collective/icalendar)** · [#1728](https://github.com/collective/icalendar/pull/1728) — documented loading Calendar.example() for users.
