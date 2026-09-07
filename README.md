@@ -37,6 +37,7 @@
 
 ## 🔧 Selected upstream work
 
+- **[POT](https://github.com/PythonOT/POT)** · [#846](https://github.com/PythonOT/POT/pull/846) — fixed device placement and dtype preservation in sliced-plan helpers, corrected weighted sparse-distance handling, and added regression coverage; merged into `master`.
 - **[LocalAI](https://github.com/mudler/LocalAI)** · [#11819](https://github.com/mudler/LocalAI/pull/11819) / [#11836](https://github.com/mudler/LocalAI/pull/11836) — fixed collection interval typing and Diffusers prompt forwarding; both merged into `master`.
 - **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** · [#2352](https://github.com/zylon-ai/private-gpt/pull/2352) — added Windows-compatible model download locking.
 - **[joblib](https://github.com/joblib/joblib)** · [#1842](https://github.com/joblib/joblib/pull/1842) — relaxed the RISC-V hashing benchmark threshold.
