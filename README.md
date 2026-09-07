@@ -2,7 +2,6 @@
 
   <h1>Hi, I'm Min Peng 👋</h1>
   <p><strong>cananoo</strong> · exploring AI, developer tools, and the web</p>
-
   <p>
     <a href="https://github.com/cananoo?tab=repositories">
       <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web3%20%7C%20Tools-0f766e?style=flat-square" alt="Focus: AI, Web3, Tools" />
@@ -16,16 +15,13 @@
 > If space is hard, landing is harder.
 
 ---
-
 ## 🧠 Current focus
 
 - 🤖 **AI-assisted developer tools** — turning ideas into useful workflows
 - 🧪 **LLM-powered experiments** — learning by shipping small prototypes
 - 🌐 **Web3 & smart contracts** — exploring open, composable products
 - ⚙️ **Go & JavaScript** — building the services and interfaces around them
-
 ## 🧩 Stack I reach for
-
 <p>
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-0f766e?style=flat-square" alt="AI / LLM" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -34,16 +30,12 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
 ## 🔧 Selected upstream work
-
-- **[icalendar](https://github.com/collective/icalendar)** · [#1729](https://github.com/collective/icalendar/pull/1729) — added and merged a `make test-dist` target for distribution checks, CI reuse, and release-quality packaging validation.
 - **[LocalAI](https://github.com/mudler/LocalAI)** · [#11819](https://github.com/mudler/LocalAI/pull/11819) / [#11836](https://github.com/mudler/LocalAI/pull/11836) — fixed collection interval typing and Diffusers prompt forwarding; both merged into `master`.
 - **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** · [#2352](https://github.com/zylon-ai/private-gpt/pull/2352) — added Windows-compatible model download locking.
-- **[jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm)** · [#4303](https://github.com/openJiuwen-ai/jiuwenswarm/pull/4303) — fixed paths in bundled skill instructions and added regression coverage.
-- **[AgenticLedger](https://github.com/ShekharBhardwaj/AgenticLedger)** · [#119](https://github.com/ShekharBhardwaj/AgenticLedger/pull/119) / [#120](https://github.com/ShekharBhardwaj/AgenticLedger/pull/120) — framework redetection breakdowns and Gemini CLI user-agent detection.
 - **[joblib](https://github.com/joblib/joblib)** · [#1842](https://github.com/joblib/joblib/pull/1842) — relaxed the RISC-V hashing benchmark threshold.
-
+- **[jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm)** · [#4303](https://github.com/openJiuwen-ai/jiuwenswarm/pull/4303) — fixed paths in bundled skill instructions and added regression coverage.
+- **[icalendar](https://github.com/collective/icalendar)** · [#1729](https://github.com/collective/icalendar/pull/1729) — added and merged a `make test-dist` target for distribution checks, CI reuse, and release-quality packaging validation.
+- **[AgenticLedger](https://github.com/ShekharBhardwaj/AgenticLedger)** · [#119](https://github.com/ShekharBhardwaj/AgenticLedger/pull/119) / [#120](https://github.com/ShekharBhardwaj/AgenticLedger/pull/120) — framework redetection breakdowns and Gemini CLI user-agent detection.
 ## 📊 GitHub at a glance
-
 <p align="center"><img style="width:49%; height:195px; object-fit:fill;" src="https://github-readme-stats-blue-nine-91.vercel.app/api?username=cananoo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />&nbsp;<img style="width:49%; height:195px; object-fit:fill;" src="https://github-readme-stats-blue-nine-91.vercel.app/api/top-langs/?username=cananoo&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=10" alt="Top languages" /></p>
