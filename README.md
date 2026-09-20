@@ -37,12 +37,13 @@
 
 ## 🔧 Selected upstream work
 
-- **[POT](https://github.com/PythonOT/POT)** · [#846](https://github.com/PythonOT/POT/pull/846) — fixed device placement and dtype preservation in sliced-plan helpers, corrected weighted sparse-distance handling, and added regression coverage; merged into `master`.
-- **[LocalAI](https://github.com/mudler/LocalAI)** · [#11819](https://github.com/mudler/LocalAI/pull/11819) / [#11836](https://github.com/mudler/LocalAI/pull/11836) — fixed collection interval typing and Diffusers prompt forwarding; both merged into `master`.
+- **[3DGS Render for Blender](https://github.com/Kiri-Innovation/3dgs-render-blender-addon)** · [#80](https://github.com/Kiri-Innovation/3dgs-render-blender-addon/pull/80) — removed 387 generator-emitted no-op layout assignments from the Light Bake UI, with compile, diff, and Blender headless smoke-test validation; merged into main.
+- **[POT](https://github.com/PythonOT/POT)** · [#846](https://github.com/PythonOT/POT/pull/846) — fixed device placement and dtype preservation in sliced-plan helpers, corrected weighted sparse-distance handling, and added regression coverage; merged into master.
+- **[LocalAI](https://github.com/mudler/LocalAI)** · [#11819](https://github.com/mudler/LocalAI/pull/11819) / [#11836](https://github.com/mudler/LocalAI/pull/11836) — fixed collection interval typing and Diffusers prompt forwarding; both merged into master.
 - **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** · [#2352](https://github.com/zylon-ai/private-gpt/pull/2352) — added Windows-compatible model download locking.
 - **[joblib](https://github.com/joblib/joblib)** · [#1842](https://github.com/joblib/joblib/pull/1842) — relaxed the RISC-V hashing benchmark threshold.
 - **[jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm)** · [#4303](https://github.com/openJiuwen-ai/jiuwenswarm/pull/4303) — fixed paths in bundled skill instructions and added regression coverage.
-- **[icalendar](https://github.com/collective/icalendar)** · [#1729](https://github.com/collective/icalendar/pull/1729) — added and merged a `make test-dist` target for distribution checks, CI reuse, and release-quality packaging validation.
+- **[icalendar](https://github.com/collective/icalendar)** · [#1729](https://github.com/collective/icalendar/pull/1729) — added and merged a make test-dist target for distribution checks, CI reuse, and release-quality packaging validation.
 - **[AgenticLedger](https://github.com/ShekharBhardwaj/AgenticLedger)** · [#119](https://github.com/ShekharBhardwaj/AgenticLedger/pull/119) / [#120](https://github.com/ShekharBhardwaj/AgenticLedger/pull/120) — framework redetection breakdowns and Gemini CLI user-agent detection.
 
 ## 📊 GitHub at a glance
